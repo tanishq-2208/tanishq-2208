@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 - 🔭 Currently diving deep into **Spring Boot**, **Flutter**, and **Cloud technologies**
-- 🌱 Continuously learning **DevOps**, **Salesforce**, and **Cloud Solutions**
+- 🌱 Continuously learning **DevOps**, and **Cloud Solutions**
 - 👯 Open to collaborating on **App Development**, **Backend Systems**, and **Exciting Tech Projects**
 - 💬 Ask me about **Java**, **Flutter**, **Spring Boot**, **Firebase**, and **Cloud Integration**
 - 📫 Reach me at: [tanishqsaigovind@gmail.com](mailto:tanishqsaigovind@gmail.com)
@@ -56,13 +56,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-2208&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 Visitors Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tanishq-2208&icon=0&color=7" alt="Visitor Count" />
 </p>
 
 ---
