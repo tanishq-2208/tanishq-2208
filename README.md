@@ -1,7 +1,14 @@
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#00FFFF;">Tanishq Sai Govind</span>
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Tanishq+Sai+Govind;Java+%7C+Flutter+Developer;Backend+%7C+Cloud+%7C+Mobile+Enthusiast;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Java+%7C+Flutter+Developer;Backend+%7C+Cloud+%7C+Mobile+Enthusiast;Let's+Build+Something+Awesome!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 ---
 
 # 💫 About Me:
@@ -41,6 +48,8 @@ Let’s connect and create something awesome! ✨
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     </td>
     <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
     </td>
     <td align="center">
@@ -85,8 +94,11 @@ Let’s connect and create something awesome! ✨
 
 ---
 
+# 📈 GitHub Activity Graph:
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tanishq-2208&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
