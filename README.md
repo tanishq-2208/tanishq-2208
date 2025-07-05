@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/rudrabarad/Gifs/blob/main/code.gif?raw=true" width="300" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
 </p>
 
 ---
@@ -92,6 +92,5 @@ Let’s connect and create something awesome! ✨
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-2208&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
