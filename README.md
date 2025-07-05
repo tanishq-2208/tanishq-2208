@@ -1,12 +1,7 @@
-<p align="center">
-  <img src="https://[[avatars.githubusercontent.com/u/XXXXXXXX?v=4](https://github.com/account](https://github.com/account)](https://avatars.githubusercontent.com/u/152472135?v=4)" width="150" height="150" style="border-radius: 50%;" />
-</p>
 
-<h1 align="center" style="color:#00FFFF;">👋 Hi, I'm <span style="color:#FF00FF;">Tanishq Sai Govind</span></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Java+%7C+Flutter+Developer;Backend+%7C+Cloud+%7C+Mobile+Enthusiast;Let's+build+something+awesome!" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Tanishq+Sai+Govind;Java+%7C+Flutter+Developer;Backend+%7C+Cloud+%7C+Mobile+Enthusiast;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -62,13 +57,14 @@ I'm a passionate **Java and Flutter Developer** 🚀
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishq-2208&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tanishq-2208&theme=dark&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishq-2208&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq-2208&theme=radical&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-2208&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-2208&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
