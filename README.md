@@ -7,8 +7,7 @@
 ---
 
 # 💫 About Me:
-## 💫 About Me:
-I'm a passionate **Java and Flutter Developer** 🚀  
+I'm a passionate **Java and Flutter Developer**  
 I love building scalable backend systems, intuitive mobile apps, and cloud-based solutions.  
 Currently exploring **Spring Boot microservices, cloud deployment, and real-time app development.**
 
