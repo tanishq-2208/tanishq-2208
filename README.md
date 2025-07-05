@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="400" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnc5bzByNDNmOTNwbGdiNWNrcjU2MzV1djZwY2UycTkzdTJnanRlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400" />
 </p>
+
 ---
 
 # 💫 About Me:
