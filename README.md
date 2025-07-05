@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://github.com/rudrabarad/Gifs/blob/main/code.gif?raw=true" width="300" />
 </p>
+
 ---
 
 # 💫 About Me:
@@ -91,14 +92,6 @@ Let’s connect and create something awesome! ✨
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-2208&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
----
-
-# 📈 GitHub Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tanishq-2208&theme=github-compact" alt="GitHub Activity Graph" />
-</p>
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
