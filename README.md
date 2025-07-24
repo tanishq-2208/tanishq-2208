@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Java+%7C+Flutter+Developer;Backend+%7C+Cloud+Engineer;Let’s+Build+Futuristic+Apps+%F0%9F%A4%96;Terminal+Online..." alt="Typing Banner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Java+%7C+Flutter+Developer;Backend+%7C+Cloud+Enthusiast;Let’s+Build+Futuristic+Apps+%F0%9F%A4%96; alt="Typing Banner">
 </h1>
 
 ---
@@ -59,20 +59,6 @@ Currently diving deep into:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishq-2208&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishq-2208&theme=tokyonight" />
 </p>
-
----
-
-## 🧠 My Contribution Journey
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishq-2208&theme=gradient&area=true&hide_border=true&bg_color=0d1117&line=00FFFF&color=00FFFF&point=ffffff" width="95%" />
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
