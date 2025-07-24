@@ -42,15 +42,22 @@ Currently diving deep into:
 
 ---
 
-## 📈 GitHub Analytics
+<!-- Custom GitHub Dashboard Layout like the Image -->
+
+<h1 align="center">📊 GitHub Dashboard</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishq-2208&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq-2208&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishq-2208&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-2208&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanishq-2208&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanishq-2208&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishq-2208&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishq-2208&theme=tokyonight" />
 </p>
 
 ---
