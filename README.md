@@ -1,35 +1,35 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;">Tanishq Sai Govind</span></h1>
+<!-- 🌐 Cyberpunk Developer Profile: Tanishq Sai Govind -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Java+%7C+Flutter+Developer;Backend+%7C+Cloud+Engineer;Building+Scalable+Apps+%F0%9F%9A%80;Let's+Build+Something+Awesome!" alt="Typing SVG" />
-</p>
+<!-- Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=140&section=header&text=Tanishq%20Sai%20Govind&fontSize=35&fontAlign=50&fontColor=ffffff" />
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=👨‍💻+Java+%7C+Flutter+%7C+Backend+Developer;☁️+Cloud+Deployments+%7C+AWS+%7C+Firebase;🚀+Let's+Build+Something+Awesome!" alt="Typing SVG">
+</h3>
+
+<!-- GIF -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnc5bzByNDNmOTNwbGdiNWNrcjU2MzV1djZwY2UycTkzdTJnanRlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Java & Flutter Developer** with a love for building **scalable backends**, **cloud-native applications**, and **beautiful mobile interfaces**.  
-Currently diving deep into:
+I'm a passionate **Java & Flutter Developer** who loves building **scalable backends**, **cloud-native apps**, and **beautiful mobile UIs**.
 
+🌱 Exploring:
 - Spring Boot Microservices  
-- Cloud Deployments (AWS, Firebase)  
-- Real-Time App Development  
+- Real-time Firebase Apps  
+- DevOps & Cloud Deployments (AWS)
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/tanishq-sai-govind-7a7399259" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tanishqsaigovind@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/tanishq-sai-govind-7a7399259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tanishqsaigovind@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
