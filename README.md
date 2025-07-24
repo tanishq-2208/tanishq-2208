@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;">Tanishq Sai Govind</span></h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/assets/banner.gif" alt="Cyberpunk Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/banner.gif" alt="Cyberpunk Banner" width="100%" />
 </p>
 
 <h1 align="center">
