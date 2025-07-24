@@ -1,35 +1,35 @@
-<!-- 🌐 Cyberpunk Developer Profile: Tanishq Sai Govind -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;">Tanishq Sai Govind</span></h1>
 
-<!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=140&section=header&text=Tanishq%20Sai%20Govind&fontSize=35&fontAlign=50&fontColor=ffffff" />
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=👨‍💻+Java+%7C+Flutter+%7C+Backend+Developer;☁️+Cloud+Deployments+%7C+AWS+%7C+Firebase;🚀+Let's+Build+Something+Awesome!" alt="Typing SVG">
-</h3>
-
-<!-- GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Java+%7C+Flutter+Developer;Backend+%7C+Cloud+Engineer;Building+Scalable+Apps+🚀;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnc5bzByNDNmOTNwbGdiNWNrcjU2MzV1djZwY2UycTkzdTJnanRlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Java & Flutter Developer** who loves building **scalable backends**, **cloud-native apps**, and **beautiful mobile UIs**.
+I'm a passionate **Java & Flutter Developer** with a love for building **scalable backends**, **cloud-native applications**, and **beautiful mobile interfaces**.  
+Currently diving deep into:
 
-🌱 Exploring:
-- Spring Boot Microservices  
-- Real-time Firebase Apps  
-- DevOps & Cloud Deployments (AWS)
+- 🧩 Spring Boot Microservices  
+- ☁️ Cloud Deployments (AWS, Firebase)  
+- 📱 Real-Time App Development  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/tanishq-sai-govind-7a7399259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tanishqsaigovind@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tanishq-sai-govind-7a7399259" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tanishqsaigovind@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -55,12 +55,15 @@ I'm a passionate **Java & Flutter Developer** who loves building **scalable back
 
 ---
 
-## 📊 Contribution Graph
+## 🧠 My Contribution Journey
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishq-2208&bg_color=1a1b27&color=00ffff&line=5BC0BE&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishq-2208&theme=gradient&area=true&hide_border=true&bg_color=0d1117&line=00FFFF&color=00FFFF&point=ffffff" width="95%" />
+</p>
 
 ---
 
@@ -70,5 +73,6 @@ I'm a passionate **Java & Flutter Developer** who loves building **scalable back
   <img src="https://github-profile-trophy.vercel.app/?username=tanishq-2208&theme=onedark&no-frame=true&column=6&margin-w=5&margin-h=5" />
 </p>
 
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:000000&height=100&section=footer&fontColor=ffffff" />
+</p>
