@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;">Tanishq Sai Govind</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Java+%7C+Flutter+Developer;Backend+%7C+Cloud+Engineer;Building+Scalable+Apps+🚀;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/assets/banner.gif" alt="Cyberpunk Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnc5bzByNDNmOTNwbGdiNWNrcjU2MzV1djZwY2UycTkzdTJnanRlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Java+%7C+Flutter+Developer;Backend+%7C+Cloud+Engineer;Let’s+Build+Futuristic+Apps+%F0%9F%A4%96;Terminal+Online..." alt="Typing Banner">
+</h1>
 
 ---
 
