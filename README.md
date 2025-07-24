@@ -58,8 +58,9 @@ Currently diving deep into:
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishq-2208&theme=react-dark&hide_border=false&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishq-2208&bg_color=1a1b27&color=00ffff&line=5BC0BE&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </p>
+
 
 ---
 
