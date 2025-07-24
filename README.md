@@ -3,10 +3,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/banner.gif" alt="Cyberpunk Banner" width="100%" />
 </p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Java+%7C+Flutter+Developer;Backend+%7C+Cloud+Enthusiast;Let’s+Build+Futuristic+Apps+%F0%9F%A4%96; alt="Typing Banner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Java+%7C+Flutter+Developer;Backend+%7C+Cloud+Enthusiast;Let’s+Build+Futuristic+Apps+%F0%9F%A4%96" alt="Typing Banner" style="max-width: 100%;">
 </h1>
+
 
 ---
 
@@ -64,8 +64,4 @@ Currently diving deep into:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tanishq-2208&theme=onedark&no-frame=true&column=6&margin-w=5&margin-h=5" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:000000&height=100&section=footer&fontColor=ffffff" />
 </p>
