@@ -63,5 +63,5 @@ Currently diving deep into:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanishq-2208&theme=onedark&no-frame=true&column=6&margin-w=5&margin-h=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tanishq-2208&theme=onedark&no-frame=true&row=1&column=3&title=Followers,Stars,Commit" />
 </p>
