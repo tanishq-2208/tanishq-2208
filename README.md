@@ -60,8 +60,8 @@ Currently diving deep into:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishq-2208&theme=tokyonight" />
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Contribution Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanishq-2208&theme=onedark&no-frame=true&row=1&column=3&title=Followers,Stars,Commit" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishq-2208&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
