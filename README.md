@@ -126,31 +126,6 @@ Currently diving deep into:
 </table>
 
 ---
-
-## Minimal Horizontal Gallery
-
-<p align="center">
-  <a href="https://github.com/tanishq-2208/flutter_chat_app">
-    <img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/chat-app-ui.png" width="280" alt="Chat App"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/tanishq-2208/farm2fresh">
-    <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg" width="280" alt="Farm2Fresh"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/tanishq-2208/ai-fusion">
-    <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg" width="280" alt="AI Fusion"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>💬 Real-Time Chat</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>🌱 Farm2Fresh</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>🤖 AI Fusion</strong>
-</p>
----
 <!-- Custom GitHub Dashboard Layout like the Image -->
 
 <h1 align="center">📊 GitHub Dashboard</h1>
