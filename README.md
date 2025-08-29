@@ -40,6 +40,7 @@ Currently diving deep into:
 |----------|----------|------------------|----------|----------------|-------|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) <br> ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <br> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Express](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white) <br> ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) <br> ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white) <br> ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) <br> ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
 
+
 ---
 
 <h2 align="center">🖼️ Project Showcase</h2>
@@ -47,7 +48,7 @@ Currently diving deep into:
 <div style="display: flex; overflow-x: auto; gap: 20px; padding: 10px;">
 
   <!-- Project 1 -->
-  <div align="center" style="min-width: 250px;">
+  <div style="flex: 0 0 auto; text-align: center;">
     <a href="https://github.com/tanishq-2208/flutter_chat_app" target="_blank">
       <img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/chat-app-ui.png" width="220" alt="Chat App Screenshot"/>
     </a>
@@ -57,7 +58,7 @@ Currently diving deep into:
   </div>
 
   <!-- Project 2 -->
-  <div align="center" style="min-width: 250px;">
+  <div style="flex: 0 0 auto; text-align: center;">
     <a href="https://github.com/tanishq-2208/farm2fresh" target="_blank">
       <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg" width="220" alt="Farm2Fresh Screenshot"/>
     </a>
@@ -67,7 +68,7 @@ Currently diving deep into:
   </div>
 
   <!-- Project 3 -->
-  <div align="center" style="min-width: 250px;">
+  <div style="flex: 0 0 auto; text-align: center;">
     <a href="https://github.com/tanishq-2208/ai-fusion" target="_blank">
       <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg" width="220" alt="AI Fusion Screenshot"/>
     </a>
