@@ -43,17 +43,6 @@ Currently diving deep into:
 ---
 # 🚀 Project Showcase
 
-| 💬 **Real-Time Chat App** | 🌱 **Farm2Fresh** | 🤖 **AI Fusion** |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/chat-app-ui.png" width="150" height="100"/> | <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg" width="150" height="100"/> | <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg" width="150" height="100"/> |
-| Flutter + Firebase | Flutter + Firebase | Flutter + Firebase + APIs |
-| Authentication, Real-time messaging | E-commerce for fresh produce | AI integrations & processing |
-| [![View](https://img.shields.io/badge/View-FF6B6B?style=flat-square&logo=github)](https://github.com/tanishq-2208/flutter_chat_app) | [![View](https://img.shields.io/badge/View-4ECDC4?style=flat-square&logo=github)](https://github.com/tanishq-2208/farm2fresh) | [![View](https://img.shields.io/badge/View-9B59B6?style=flat-square&logo=github)](https://github.com/tanishq-2208/ai-fusion) |
-
----
-
-## Card-Style Version with Tech Stack
-
 <div align="center">
 
 ### 🚀 Featured Projects
@@ -82,7 +71,7 @@ Currently diving deep into:
 [![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishq-2208/flutter_chat_app)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🌱 Farm2Fresh
 [![Farm2Fresh Preview](https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg)](https://github.com/tanishq-2208/farm2fresh)
@@ -102,7 +91,7 @@ Currently diving deep into:
 [![View Project](https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishq-2208/farm2fresh)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🤖 AI Fusion
 [![AI Fusion Preview](https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg)](https://github.com/tanishq-2208/ai-fusion)
