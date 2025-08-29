@@ -42,6 +42,43 @@ Currently diving deep into:
 
 ---
 
+## 🖼️ Project Showcase  
+
+<p align="center">
+  <!-- Project 1 -->
+  <a href="https://github.com/tanishq-2208/flutter_chat_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/chat-app-ui.png" width="300" alt="Chat App Screenshot"/>
+  </a>
+  <br>
+  <b>💬 Real-Time Chat App</b><br>
+  <i>Flutter + Firebase | Authentication | Real-time messaging</i>
+</p>
+
+---
+
+<p align="center">
+  <!-- Project 2 -->
+  <a href="https://github.com/tanishq-2208/springboot-ecommerce" target="_blank">
+    <img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/ecommerce-dashboard.png" width="300" alt="E-Commerce Screenshot"/>
+  </a>
+  <br>
+  <b>🛒 E-Commerce Backend</b><br>
+  <i>Spring Boot Microservices | JWT Auth | MySQL | Dockerized</i>
+</p>
+
+---
+
+<p align="center">
+  <!-- Project 3 -->
+  <a href="https://github.com/tanishq-2208/flutter-expense-tracker" target="_blank">
+    <img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/expense-tracker-ui.png" width="300" alt="Expense Tracker Screenshot"/>
+  </a>
+  <br>
+  <b>💰 Expense Tracker</b><br>
+  <i>Flutter | Local Storage (Hive DB) | Graph Visualization</i>
+</p>
+
+
 <!-- Custom GitHub Dashboard Layout like the Image -->
 
 <h1 align="center">📊 GitHub Dashboard</h1>
