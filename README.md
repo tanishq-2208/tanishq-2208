@@ -42,43 +42,41 @@ Currently diving deep into:
 
 ---
 
-## 🖼️ Project Showcase  
+<h2 align="center">🖼️ Project Showcase</h2>
 
-<p align="center">
+<div style="display: flex; overflow-x: auto; gap: 20px; padding: 10px;">
+
   <!-- Project 1 -->
-  <a href="https://github.com/tanishq-2208/flutter_chat_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/chat-app-ui.png" width="300" alt="Chat App Screenshot"/>
-  </a>
-  <br>
-  <b>💬 Real-Time Chat App</b><br>
-  <i>Flutter + Firebase | Authentication | Real-time messaging</i>
-</p>
+  <div align="center" style="min-width: 250px;">
+    <a href="https://github.com/tanishq-2208/flutter_chat_app" target="_blank">
+      <img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/chat-app-ui.png" width="220" alt="Chat App Screenshot"/>
+    </a>
+    <br>
+    <b>💬 Real-Time Chat App</b><br>
+    <i>Flutter + Firebase | Authentication | Real-time messaging</i>
+  </div>
 
----
-
----
-
-<p align="center">
   <!-- Project 2 -->
-  <a href="https://github.com/tanishq-2208/farm2fresh" target="_blank">
-    <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg" width="300" alt="Farm2Fresh Screenshot"/>
-  </a>
-  <br>
-  <b>🌱 Farm2Fresh</b><br>
-  <i>Flutter | Firebase | E-commerce platform for fresh produce</i>
-</p>
+  <div align="center" style="min-width: 250px;">
+    <a href="https://github.com/tanishq-2208/farm2fresh" target="_blank">
+      <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg" width="220" alt="Farm2Fresh Screenshot"/>
+    </a>
+    <br>
+    <b>🌱 Farm2Fresh</b><br>
+    <i>Flutter | Firebase | E-commerce platform for fresh produce</i>
+  </div>
 
----
+  <!-- Project 3 -->
+  <div align="center" style="min-width: 250px;">
+    <a href="https://github.com/tanishq-2208/ai-fusion" target="_blank">
+      <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg" width="220" alt="AI Fusion Screenshot"/>
+    </a>
+    <br>
+    <b>🤖 AI Fusion</b><br>
+    <i>Flutter | Firebase + API Integrations</i>
+  </div>
 
-<p align="center">
-  <!-- Project 2 -->
-  <a href="https://github.com/tanishq-2208/ai-fusion" target="_blank">
-    <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg" width="300" alt="AI Fusion Screenshot"/>
-  </a>
-  <br>
-  <b>🤖 AI Fusion</b><br>
-  <i> Flutter | Firebase + API Integrations</i>
-</p>
+</div>
 
 ---
 
