@@ -43,17 +43,11 @@ Currently diving deep into:
 ---
 # 🚀 Project Showcase
 
-<div align="center">
-
-### 🚀 Featured Projects
-
-</div>
-
 <table>
 <tr>
 <td width="20%" valign="top">
 
-### 💬 Real-Time Chat App
+### 👨‍🎓 BVRIT Training & Placements App
 [![Farm2Fresh Preview](https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/BVRITss.jpg)](https://github.com/Abhi-0987/Vishnu-Training-Placement)
 
 **Tech Stack:**
