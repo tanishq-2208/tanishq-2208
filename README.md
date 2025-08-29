@@ -43,9 +43,37 @@ Currently diving deep into:
 ---
 ## 🚀 Project Showcase  
 
-| | | |
-|---|---|---|
-| <a href="https://github.com/tanishq-2208/flutter_chat_app" target="_blank"><img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/chat-app-ui.png" width="200"/></a><br>**💬 Real-Time Chat App**<br>*Flutter + Firebase | Authentication | Real-time messaging* | <a href="https://github.com/tanishq-2208/farm2fresh" target="_blank"><img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg" width="200"/></a><br>**🌱 Farm2Fresh**<br>*Flutter | Firebase | E-commerce platform for fresh produce* | <a href="https://github.com/tanishq-2208/ai-fusion" target="_blank"><img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg" width="200"/></a><br>**🤖 AI Fusion**<br>*Flutter | Firebase + API Integrations* |
+<div style="display: flex; overflow-x: auto; gap: 20px; padding: 10px;">
+  
+  <div style="flex: 0 0 auto; text-align: center;">
+    <a href="https://github.com/tanishq-2208/flutter_chat_app" target="_blank">
+      <img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/chat-app-ui.png" width="200" />
+    </a>
+    <br>
+    <b>💬 Real-Time Chat App</b><br>
+    <i>Flutter + Firebase | Authentication | Real-time messaging</i>
+  </div>
+  
+  <div style="flex: 0 0 auto; text-align: center;">
+    <a href="https://github.com/tanishq-2208/farm2fresh" target="_blank">
+      <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg" width="200" />
+    </a>
+    <br>
+    <b>🌱 Farm2Fresh</b><br>
+    <i>Flutter | Firebase | E-commerce platform for fresh produce</i>
+  </div>
+  
+  <div style="flex: 0 0 auto; text-align: center;">
+    <a href="https://github.com/tanishq-2208/ai-fusion" target="_blank">
+      <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg" width="200" />
+    </a>
+    <br>
+    <b>🤖 AI Fusion</b><br>
+    <i>Flutter | Firebase + API Integrations</i>
+  </div>
+
+</div>
+
 
 ---
 <!-- Custom GitHub Dashboard Layout like the Image -->
