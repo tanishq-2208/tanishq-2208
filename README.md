@@ -57,10 +57,10 @@ Currently diving deep into:
 - 🔧 Git
 
 **Features:**
-- 📅 Training & placement schedules
-- 🔔 Real-time updates
-- 👨‍🎓 Student & admin access
-- ⚡ Responsive Android app
+- Training & placement schedules
+- Real-time updates
+- Student & admin access
+- Responsive Android app
 
 [![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhi-0987/Vishnu-Training-Placement)
 
@@ -97,7 +97,7 @@ Currently diving deep into:
 - ⚡ Real-time Processing
 
 **Features:**
-- Multiple AI integrations
+- Gemini AI integration
 - Smart recommendations
 - Real-time processing
 - Intuitive interface
