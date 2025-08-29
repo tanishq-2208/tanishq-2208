@@ -45,7 +45,7 @@ Currently diving deep into:
 
 <table>
 <tr>
-<td width="20%" valign="top">
+<td width="10%" valign="top">
 
 ### 👨‍🎓 BVRIT Training & Placements App
 [![Farm2Fresh Preview](https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/BVRITss.jpg)](https://github.com/Abhi-0987/Vishnu-Training-Placement)
@@ -65,7 +65,7 @@ Currently diving deep into:
 [![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhi-0987/Vishnu-Training-Placement)
 
 </td>
-<td width="20%" valign="top">
+<td width="10%" valign="top">
 
 ### 🌱 Farm2Fresh
 [![Farm2Fresh Preview](https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg)](https://github.com/tanishq-2208/farm2fresh)
@@ -85,7 +85,7 @@ Currently diving deep into:
 [![View Project](https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishq-2208/farm2fresh)
 
 </td>
-<td width="20%" valign="top">
+<td width="10%" valign="top">
 
 ### 🤖 AI Fusion
 [![AI Fusion Preview](https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg)](https://github.com/tanishq-2208/ai-fusion)
