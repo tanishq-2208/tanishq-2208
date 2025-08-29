@@ -43,56 +43,9 @@ Currently diving deep into:
 ---
 # 🚀 Project Showcase
 
-<table>
-<tr>
-<td align="center" width="300">
-<a href="https://github.com/tanishq-2208/flutter_chat_app">
-<img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/chat-app-ui.png" width="250" height="150" style="object-fit: cover; border-radius: 10px;"/>
-</a>
-<br><br>
-<h3>💬 Real-Time Chat App</h3>
-<p><em>Flutter + Firebase</em></p>
-<p>🔐 Authentication • 💬 Real-time messaging • 🎨 Modern UI</p>
-<a href="https://github.com/tanishq-2208/flutter_chat_app">
-<img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-
-<td align="center" width="300">
-<a href="https://github.com/tanishq-2208/farm2fresh">
-<img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg" width="250" height="150" style="object-fit: cover; border-radius: 10px;"/>
-</a>
-<br><br>
-<h3>🌱 Farm2Fresh</h3>
-<p><em>Flutter + Firebase</em></p>
-<p>🛒 E-commerce • 🥬 Fresh Produce • 📱 Mobile-First Design</p>
-<a href="https://github.com/tanishq-2208/farm2fresh">
-<img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-
-<td align="center" width="300">
-<a href="https://github.com/tanishq-2208/ai-fusion">
-<img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg" width="250" height="150" style="object-fit: cover; border-radius: 10px;"/>
-</a>
-<br><br>
-<h3>🤖 AI Fusion</h3>
-<p><em>Flutter + Firebase</em></p>
-<p>🔗 API Integrations • 🧠 AI Powered • ⚡ Real-time Processing</p>
-<a href="https://github.com/tanishq-2208/ai-fusion">
-<img src="https://img.shields.io/badge/View%20Project-9B59B6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
-
----
-
-## Alternative Compact Version
-
 | 💬 **Real-Time Chat App** | 🌱 **Farm2Fresh** | 🤖 **AI Fusion** |
 |:---:|:---:|:---:|
-| [![Chat App](https://raw.githubusercontent.com/tanishq-2208/project-images/main/chat-app-ui.png)](https://github.com/tanishq-2208/flutter_chat_app) | [![Farm2Fresh](https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg)](https://github.com/tanishq-2208/farm2fresh) | [![AI Fusion](https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg)](https://github.com/tanishq-2208/ai-fusion) |
+| <img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/chat-app-ui.png" width="150" height="100"/> | <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg" width="150" height="100"/> | <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg" width="150" height="100"/> |
 | Flutter + Firebase | Flutter + Firebase | Flutter + Firebase + APIs |
 | Authentication, Real-time messaging | E-commerce for fresh produce | AI integrations & processing |
 | [![View](https://img.shields.io/badge/View-FF6B6B?style=flat-square&logo=github)](https://github.com/tanishq-2208/flutter_chat_app) | [![View](https://img.shields.io/badge/View-4ECDC4?style=flat-square&logo=github)](https://github.com/tanishq-2208/farm2fresh) | [![View](https://img.shields.io/badge/View-9B59B6?style=flat-square&logo=github)](https://github.com/tanishq-2208/ai-fusion) |
@@ -197,7 +150,6 @@ Currently diving deep into:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>🤖 AI Fusion</strong>
 </p>
-
 ---
 <!-- Custom GitHub Dashboard Layout like the Image -->
 
