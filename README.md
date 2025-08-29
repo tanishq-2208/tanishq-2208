@@ -85,7 +85,7 @@ Currently diving deep into:
 [![View Project](https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishq-2208/farm2fresh)
 
 </td>
-<td width="10%" valign="top">
+<td width="7%" valign="top">
 
 ### 🤖 AI Fusion
 [![AI Fusion Preview](https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg)](https://github.com/tanishq-2208/ai-fusion)
