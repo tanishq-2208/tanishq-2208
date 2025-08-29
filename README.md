@@ -56,28 +56,31 @@ Currently diving deep into:
 
 ---
 
+---
+
 <p align="center">
   <!-- Project 2 -->
-  <a href="https://github.com/tanishq-2208/springboot-ecommerce" target="_blank">
-    <img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/ecommerce-dashboard.png" width="300" alt="E-Commerce Screenshot"/>
+  <a href="https://github.com/tanishq-2208/farm2fresh" target="_blank">
+    <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg" width="300" alt="Farm2Fresh Screenshot"/>
   </a>
   <br>
-  <b>🛒 E-Commerce Backend</b><br>
-  <i>Spring Boot Microservices | JWT Auth | MySQL | Dockerized</i>
+  <b>🌱 Farm2Fresh</b><br>
+  <i>Flutter | Firebase | E-commerce platform for fresh produce</i>
 </p>
 
 ---
 
 <p align="center">
-  <!-- Project 3 -->
-  <a href="https://github.com/tanishq-2208/flutter-expense-tracker" target="_blank">
-    <img src="https://raw.githubusercontent.com/tanishq-2208/project-images/main/expense-tracker-ui.png" width="300" alt="Expense Tracker Screenshot"/>
+  <!-- Project 2 -->
+  <a href="https://github.com/tanishq-2208/ai-fusion" target="_blank">
+    <img src="https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg" width="300" alt="AI Fusion Screenshot"/>
   </a>
   <br>
-  <b>💰 Expense Tracker</b><br>
-  <i>Flutter | Local Storage (Hive DB) | Graph Visualization</i>
+  <b>🤖 AI Fusion</b><br>
+  <i> Flutter | Firebase + API Integrations</i>
 </p>
 
+---
 
 <!-- Custom GitHub Dashboard Layout like the Image -->
 
