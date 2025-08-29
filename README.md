@@ -54,21 +54,21 @@ Currently diving deep into:
 <td width="20%" valign="top">
 
 ### 💬 Real-Time Chat App
-[![Chat App Preview](https://raw.githubusercontent.com/tanishq-2208/project-images/main/chat-app-ui.png)](https://github.com/tanishq-2208/flutter_chat_app)
+[![Farm2Fresh Preview](https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/BVRITss.jpg)](https://github.com/Abhi-0987/Vishnu-Training-Placement)
 
 **Tech Stack:**
 - 📱 Flutter
-- 🔥 Firebase
-- 🔐 Authentication
-- 💬 Real-time Database
+- ☕ Spring Boot
+- 🗄️ PostgreSQL
+- 🔧 Git
 
 **Features:**
-- Real-time messaging
-- User authentication
-- Modern UI/UX
-- Cross-platform
+- 📅 Training & placement schedules
+- 🔔 Real-time updates
+- 👨‍🎓 Student & admin access
+- ⚡ Responsive Android app
 
-[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishq-2208/flutter_chat_app)
+[![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhi-0987/Vishnu-Training-Placement)
 
 </td>
 <td width="20%" valign="top">
