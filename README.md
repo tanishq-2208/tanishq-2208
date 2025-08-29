@@ -51,7 +51,7 @@ Currently diving deep into:
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="20%" valign="top">
 
 ### 💬 Real-Time Chat App
 [![Chat App Preview](https://raw.githubusercontent.com/tanishq-2208/project-images/main/chat-app-ui.png)](https://github.com/tanishq-2208/flutter_chat_app)
@@ -71,7 +71,7 @@ Currently diving deep into:
 [![View Project](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishq-2208/flutter_chat_app)
 
 </td>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### 🌱 Farm2Fresh
 [![Farm2Fresh Preview](https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/F2Fss.jpg)](https://github.com/tanishq-2208/farm2fresh)
@@ -91,7 +91,7 @@ Currently diving deep into:
 [![View Project](https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishq-2208/farm2fresh)
 
 </td>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 ### 🤖 AI Fusion
 [![AI Fusion Preview](https://raw.githubusercontent.com/tanishq-2208/tanishq-2208/main/AiFss.jpg)](https://github.com/tanishq-2208/ai-fusion)
